@@ -8,6 +8,6 @@
 
 حال در این تمرین قصد داریم با تحلیل عملکرد بازیکنان لیگ حرفه‌ای امریکا (NBA) پیشبینی کنیم آیا یک بازیکن برای ۵ سال در این لیگ بازی خواهد کرد یا خیر!
 
-![Alt text](https://quera.org/qbox/view/jZXsu5IlO6/bp-miller-jshW04uzun8-unsplash.jpg "Optional title")
-<img src="https://quera.org/qbox/view/jZXsu5IlO6/bp-miller-jshW04uzun8-unsplash.jpg" alt="Alt text" title="Optional title">
+![My Remote Image](https://quera.org/qbox/view/jZXsu5IlO6/bp-miller-jshW04uzun8-unsplash.jpg?dl=0)
+
 
